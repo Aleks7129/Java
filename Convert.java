@@ -15,9 +15,8 @@ public class Convert {
             System.out.println();
         } else {
             System.out.println("Решти немає");
-        }
-
-        sc.close();
+        } 
+        sc.close(); 
     }
 }
 
